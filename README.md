@@ -1,5 +1,3 @@
-Description de l'application
-
 Cette application permet la gestion de stock huile pétrolier, réalisé par C# Winforms du framework .NET, elle offre les opérations suivantes:
 
 -L'affichage des stocks huile
