@@ -1,0 +1,7 @@
+Nom: Huile | VF: 15 | VC: 50 | Prix: 6 | Stock: 5 | Pétrolier: yeah
+Nom: two | VF: 0 | VC: 30 | Prix: 2 | Stock: 3 | Pétrolier: kjzehgf
+Nom: Huile | VF: 15 | VC: 50 | Prix: 6 | Stock: 5 | Pétrolier: yeah
+Nom: two | VF: 0 | VC: 30 | Prix: 2 | Stock: 3 | Pétrolier: kjzehgf
+Nom: Huile | VF: 15 | VC: 50 | Prix: 6 | Stock: 5 | Pétrolier: yeah
+Nom: two | VF: 0 | VC: 30 | Prix: 2 | Stock: 3 | Pétrolier: kjzehgf
+Nom: jhgh | VF: 10 | VC: 30 | Prix: 2 | Stock: 2 | Pétrolier: hh

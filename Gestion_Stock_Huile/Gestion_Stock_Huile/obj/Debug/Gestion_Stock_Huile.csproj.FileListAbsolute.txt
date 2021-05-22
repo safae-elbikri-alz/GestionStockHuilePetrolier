@@ -1,0 +1,15 @@
+C:\Users\Soufiane\source\repos\Gestion_Stock_Huile\Gestion_Stock_Huile\bin\Debug\Gestion_Stock_Huile.exe.config
+C:\Users\Soufiane\source\repos\Gestion_Stock_Huile\Gestion_Stock_Huile\bin\Debug\Gestion_Stock_Huile.exe
+C:\Users\Soufiane\source\repos\Gestion_Stock_Huile\Gestion_Stock_Huile\bin\Debug\Gestion_Stock_Huile.pdb
+C:\Users\Soufiane\source\repos\Gestion_Stock_Huile\Gestion_Stock_Huile\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\Soufiane\source\repos\Gestion_Stock_Huile\Gestion_Stock_Huile\obj\Debug\Gestion_Stock_Huile.csprojAssemblyReference.cache
+C:\Users\Soufiane\source\repos\Gestion_Stock_Huile\Gestion_Stock_Huile\obj\Debug\Gestion_Stock_Huile.Form1.resources
+C:\Users\Soufiane\source\repos\Gestion_Stock_Huile\Gestion_Stock_Huile\obj\Debug\Gestion_Stock_Huile.Properties.Resources.resources
+C:\Users\Soufiane\source\repos\Gestion_Stock_Huile\Gestion_Stock_Huile\obj\Debug\Gestion_Stock_Huile.csproj.GenerateResource.cache
+C:\Users\Soufiane\source\repos\Gestion_Stock_Huile\Gestion_Stock_Huile\obj\Debug\Gestion_Stock_Huile.csproj.CoreCompileInputs.cache
+C:\Users\Soufiane\source\repos\Gestion_Stock_Huile\Gestion_Stock_Huile\obj\Debug\Gestion_Stock_Huile.csproj.CopyComplete
+C:\Users\Soufiane\source\repos\Gestion_Stock_Huile\Gestion_Stock_Huile\obj\Debug\Gestion_Stock_Huile.exe
+C:\Users\Soufiane\source\repos\Gestion_Stock_Huile\Gestion_Stock_Huile\obj\Debug\Gestion_Stock_Huile.pdb
+C:\Users\Soufiane\source\repos\Gestion_Stock_Huile\Gestion_Stock_Huile\obj\Debug\Gestion_Stock_Huile.UserControls.FirstUC.resources
+C:\Users\Soufiane\source\repos\Gestion_Stock_Huile\Gestion_Stock_Huile\obj\Debug\Gestion_Stock_Huile.UserControls.SecondUC.resources
+C:\Users\Soufiane\source\repos\Gestion_Stock_Huile\Gestion_Stock_Huile\obj\Debug\Gestion_Stock_Huile.UserControls.ThirdUC.resources
